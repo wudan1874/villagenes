@@ -9,7 +9,6 @@
 首页:
 ![image](https://github.com/wudan1874/villagenes/blob/master/readme-img/pc-1.png)
 
-![image](https://github.com/wudan1874/villagenes/blob/master/readme-img/pc-2.png)
 
 ![image](https://github.com/wudan1874/villagenes/blob/master/readme-img/pc-3.png)
 
