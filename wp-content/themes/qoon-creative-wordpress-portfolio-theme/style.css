@@ -1,0 +1,12 @@
+/*
+Theme Name: Villagenes Theme
+Theme URI: 
+Description: Villagenes -  Xiang Xiang WebSite
+Version: 1.0
+License: 
+License URI:
+*/
+@import url('framework/bootstrap/bootstrap.css');
+@import url('framework/css/main_style.css');
+@import url('framework/css/options.css');
+@import url('theme-options/style.css');
