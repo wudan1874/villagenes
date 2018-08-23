@@ -1,10 +1,10 @@
-#响应式villagenes官网 
+# 响应式villagenes官网 
 
-#链接地址：https://www.villagenes.com/
+链接地址：https://www.villagenes.com/
 
-页面截图：
+# 页面截图：
 
-#PC端
+# PC端
 
 首页:
 ![image](https://github.com/wudan1874/villagenes/blob/master/readme-img/pc-1.png)
@@ -29,7 +29,7 @@ IP联盟
 
 ![image](https://github.com/wudan1874/villagenes/blob/master/readme-img/pc-7.png)
 
-#手机
+# 手机
 
 ![image](https://github.com/wudan1874/villagenes/blob/master/readme-img/mobile-1.png)
 
@@ -41,7 +41,7 @@ IP联盟
 
 ![image](https://github.com/wudan1874/villagenes/blob/master/readme-img/mobile-5.png)
 
-#ipad
+# ipad
 
 ![image](https://github.com/wudan1874/villagenes/blob/master/readme-img/ipad-1.png)
 
